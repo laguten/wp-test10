@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # iagnore everything in the root except the "wp-content" directory.
 !wp-content/
 
@@ -22,6 +23,8 @@ node_modules/
 *.sql
 *.sqlite
 *.retry
+=======
+>>>>>>> 9f89abe9c8c5ef2f7504f5019420baff7b49f471
 _wpeprivate
 wp-content\/uploads
 \.hqx$
@@ -56,3 +59,8 @@ wp-content\/uploads
 \.asf$
 \.wmv$
 \.avi$
+<<<<<<< HEAD
+=======
+*.log
+*.retry
+>>>>>>> 9f89abe9c8c5ef2f7504f5019420baff7b49f471
